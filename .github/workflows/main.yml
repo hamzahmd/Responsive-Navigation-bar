@@ -32,4 +32,4 @@ jobs:
       - name: Installing surge
         run:  npm install --global surge
       - name: Deploying using surge
-        run:  surge ./ responsive-narbar-deved.surge.sh/ --token $ {{secrets.TOKEN_SURGE}}
+        run:  surge ./ responsive-narbar-deved.surge.sh --token ${{ secrets.TOKEN_SURGE }}
