@@ -8,7 +8,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(11, 39, 53);
+  background-color: rgb(53, 11, 29);
   min-height: 8vh;
   font-family: "Roboto", sans-serif;
 }
@@ -58,7 +58,7 @@ nav {
     right: 0px;
     height: 92vh;
     top: 8vh;
-    background-color: rgb(11, 39, 53);
+    background-color: rgb(53, 11, 29);
     display: flex;
     flex-direction: column;
     align-items: center;
