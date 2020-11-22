@@ -1,5 +1,6 @@
 # Responsive-Navigation-bar
 This repository contains an application of responsive navigation bar made with HTML, CSS and Vanilla JS.
+
 Surge Deployment:
 http://responsive-narbar-deved.surge.sh/
 
